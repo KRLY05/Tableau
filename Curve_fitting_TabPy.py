@@ -12,6 +12,4 @@ ysmooth=interpolate.pchip_interpolate(X,y,Xsmooth) #interpolation (depending on 
 
 result=[round(i,10) for i in ysmooth] #rounding to fit in output JSON
 return result
-',
-
-attr([Acg Date]),[ASK vFP])
+',attr([Date]),ATTR([Value1]))
